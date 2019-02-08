@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["validate","Check a signature and a message against a shared secret."]]});
